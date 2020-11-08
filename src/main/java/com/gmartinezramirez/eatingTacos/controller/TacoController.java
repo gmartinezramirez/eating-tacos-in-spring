@@ -1,0 +1,6 @@
+package com.gmartinezramirez.eatingTacos.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TacoController {}
