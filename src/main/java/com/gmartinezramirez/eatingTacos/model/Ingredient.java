@@ -1,2 +1,4 @@
-package com.gmartinezramirez.eatingTacos.model;public class Ingredient {
+package com.gmartinezramirez.eatingTacos.model;
+
+public class Ingredient {
 }
